@@ -10,7 +10,7 @@
 * Erik Bryhn Myklebust. **Knowledge Graph Embedding for Chemical Effect Prediction.** Norwegian Institute for Water Research's Faglunch (Lunch seminar series) 2020. [Presentation](https://github.com/NIVA-Knowledge-Graph/Dissemination/blob/master/files/Faglunsj_January_2020.pdf). Recording upon request. 
 * Erik Bryhn Myklebust, Ernesto Jimenez-Ruiz, Jiaoyan Chen, Raoul Wolf and Knut-Erik Tollefsen. **Semantic Data Access for Toxicological Research.** SETAC Europe 2020. [PDF](https://github.com/NIVA-Knowledge-Graph/Dissemination/blob/master/files/SETAC_2020_poster_2.pdf)
 * Erik Bryhn Myklebust, Ernesto Jimenez-Ruiz, Jiaoyan Chen, Raoul Wolf and Knut-Erik Tollefsen. **Domain Wide Effect Modelling to Support Read-Across in Hazard and Risk assessment.** SETAC Europe 2020. [PDF](https://github.com/NIVA-Knowledge-Graph/Dissemination/blob/master/files/SETAC_2020_poster_1.pdf)
-* Nils Petter Opsahl Skrindebakke. Master's thesis. **TITLE TBD.** 2020. Supervisors: Erik Bryhn Myklebust and Ernesto Jimenez-Ruiz. [PDF](). [REPOSITORY](https://github.com/Erik-BM/mpnp)
+* Nils Petter Opsahl Skrindebakke. Master's thesis. **Understanding the Role of Background Knowledge in Predictions; Ecotoxicological Effect Prediction** 2020. Supervisors: Erik Bryhn Myklebust and Ernesto Jimenez-Ruiz. [PDF](https://github.com/NIVA-Knowledge-Graph/Dissemination/blob/master/files/Nils_Petter_Master.pdf). [REPOSITORY](https://github.com/NIVA-Knowledge-Graph/mpnp)
 
 ## Abbreviations
 * SETAC: Society of Environmental Toxicology and Chemistry.
