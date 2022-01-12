@@ -1,7 +1,7 @@
 # Dissemination
 
 ## 2021
-* Erik B. Myklebust, Ernesto Jimenez Ruiz, Jiaoyan Chen, Raoul Wolf, Knut Erik Tollefsen. **Prediction of Adverse Biological Effects of Chemicals Using Knowledge Graph Embeddings** Accepted for publication in the Semantic Web journal, 2021. [Paper](http://semantic-web-journal.org/content/prediction-adverse-biological-effects-chemicals-using-knowledge-graph-embeddings-0) [REPOSITORY](https://github.com/NIVA-Knowledge-Graph/KGs_and_Effect_Prediction_2020)
+* Erik B. Myklebust, Ernesto Jimenez Ruiz, Jiaoyan Chen, Raoul Wolf, Knut Erik Tollefsen. **Prediction of Adverse Biological Effects of Chemicals Using Knowledge Graph Embeddings** Accepted for publication in the Semantic Web journal, 2021. [arXiv](https://arxiv.org/abs/2112.04605) [Submitted Paper](http://semantic-web-journal.org/content/prediction-adverse-biological-effects-chemicals-using-knowledge-graph-embeddings-0) [REPOSITORY](https://github.com/NIVA-Knowledge-Graph/KGs_and_Effect_Prediction_2020)
 
 ## 2020
 * Erik Bryhn Myklebust. **Knowledge Graph Embedding for Chemical Effect Prediction.** Norwegian Institute for Water Research's Faglunch (Lunch seminar series) 2020. [Presentation](https://github.com/NIVA-Knowledge-Graph/Dissemination/blob/master/files/Faglunsj_January_2020.pdf). Recording upon request. 
