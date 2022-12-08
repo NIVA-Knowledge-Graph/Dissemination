@@ -1,4 +1,6 @@
 # Dissemination
+## 2022
+* Myklebust, Erik Bryhn. **Ecotoxicological Effect Prediction using a Tailored Knowledge Graph.** Dissertation. https://www.duo.uio.no/handle/10852/97165
 
 ## 2021
 * Erik B. Myklebust, Ernesto Jimenez Ruiz, Jiaoyan Chen, Raoul Wolf, Knut Erik Tollefsen. **Prediction of Adverse Biological Effects of Chemicals Using Knowledge Graph Embeddings** Accepted for publication in the Semantic Web journal, 2021. ([arXiv](https://arxiv.org/abs/2112.04605)) ([Submitted Paper](http://semantic-web-journal.org/content/prediction-adverse-biological-effects-chemicals-using-knowledge-graph-embeddings-0)) [(REPOSITORY](https://github.com/NIVA-Knowledge-Graph/KGs_and_Effect_Prediction_2020))
